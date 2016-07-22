@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JourneyProject>
+  <Parameters>
+    <ProblemFile>qa194.tsp</ProblemFile>
+    <LogLevel>2</LogLevel>
+    <Optimum>9354,43</Optimum>
+    <RandomFirstNode>yes</RandomFirstNode>
+    <TourFile>qa194.tour</TourFile>
+    <LKNearestNeighbors>12</LKNearestNeighbors>
+    <LKGap>1E-06</LKGap>
+  </Parameters>
+</JourneyProject>
